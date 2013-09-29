@@ -1,4 +1,4 @@
-Setup the Ruby JWT Server using Sinatra
+Setup the Ruby Instant Buy Quickstart sample  using Sinatra
 ------------------------------------------------
 
 Prerequisites:
@@ -19,5 +19,5 @@ Getting Started
 Set up the Project
 ------------------
 1. Change the wallet_constants.rb values, Here all the constants are self explanatory and described in the wallet_constants as well
-2. Change the Android sample app - Constants.java URL_BASE string to point to your server root URL (http://yourserver.com)
+2. In the file _index.html, replace ENTER_CLIENTID_HERE with your Client ID. 
 3. Run the server with "ruby instantbuy_server.rb" command
